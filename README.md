@@ -1,10 +1,3 @@
-Harika bir script, Burak. Oldukça gelişmiş özellikler eklemişsin.
-
-İstediğin GitHub deposu (`https://github.com/buraksocial/google-analytics-manipulative/`) için hazırladığım detaylı `README.md` dosyası aşağıdadır.
-
------
-
-````markdown
 # Google Analytics (GA4) Manipülasyon Aracı
 
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -146,6 +139,3 @@ Her bir iş parçacığı (thread) bu sınıftan bir nesne oluşturur.
   * Tüm görevler bittiğinde `as_completed` ile sonuçları toplar ve programı sonlandırır.
 
 <!-- end list -->
-
-```
-```
