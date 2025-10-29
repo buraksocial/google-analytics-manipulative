@@ -98,8 +98,6 @@ Tüm yapılandırmaları tamamladıktan sonra, betiği terminal veya komut istem
 python main.py 
 ````
 
-*(Eğer dosya adınız farklıysa `main.py` yerine kendi dosya adınızı yazın)*
-
 Betiğiniz çalışmaya başlayacak, proxy'leri yükleyecek ve her bir proxy için sırayla (`HIT_INTERVAL_MSEC` aralığıyla) bir ziyaretçi görevi başlatacaktır. Her ziyaretçinin gerçekleştirdiği eylemleri konsolda anlık olarak görebilirsiniz.
 
 -----
